@@ -13,7 +13,7 @@ void arfunc(int arr[],int sz)
         
     }
 
-    int other_num=sz-count_zero;  //other word conting
+    int other_num=sz-count_zero;  //other number conting
     int new_arr[sz];  //to organise the primary array
 
     int next_element=0;  //to store other number in sequence
